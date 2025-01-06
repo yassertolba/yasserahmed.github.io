@@ -19,7 +19,7 @@
 ![NetDevOps Logo](logo-14.bmp)
 
 ## About Me
-![Yasser Ahmed](personal_photo.jpg){: width="150" height="auto" style="border-radius:50%;"}
+![Yasser Ahmed](personal_photo.jpg)
 
 Greetings,
 
