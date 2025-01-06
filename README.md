@@ -1,8 +1,10 @@
 # Yasser Ahmed – Network DevOps Engineer
 
-Automating Complex Network Infrastructures
+*Automating Complex Network Infrastructures*
 
-## Navigation
+---
+
+## Table of Contents
 - [About Me](#about-me)
 - [Technical Skills](#technical-skills)
 - [Education](#education)
@@ -18,46 +20,48 @@ Automating Complex Network Infrastructures
 
 ## About Me
 ![Yasser Ahmed](personal_photo.jpg){: width="150" height="auto" style="border-radius:50%;"}
+
 Greetings,
 
-My name's Yasser Ahmed, a highly skilled Network DevOps Engineer with CCNA and CCNP certifications. I specialize in automating and securing complex network infrastructures with a focus on:
+My name is Yasser Ahmed, a highly skilled Network DevOps Engineer with CCNA and CCNP certifications. I specialize in automating and securing complex network infrastructures with a focus on:
 
 - Python scripting
 - DevOps tools (Ansible, Docker)
 - Developing custom Python GUIs for streamlined network operations
 
-Proven expertise in improving network monitoring, implementing robust backup strategies for network devices, and maximizing network efficiency and uptime. My experience has enhanced my skills in effective communication, problem-solving, and time management.
+I have proven expertise in improving network monitoring, implementing robust backup strategies for network devices, and maximizing network efficiency and uptime. My experience has enhanced my skills in effective communication, problem-solving, and time management.
 
 ## Technical Skills
+
 ### Networking
-- CCNA R&S 200-301 (NTI Certified)
-- CCNP ENCORE
-- BGP & MPLS
-- Network Security, CyberOps, firewalls & VPN (NTI Certified)
+- **CCNA R&S 200-301** (NTI Certified)
+- **CCNP ENCORE**
+- **BGP & MPLS**
+- **Network Security, CyberOps, firewalls & VPN** (NTI Certified)
 
 ### Python
-- Python 3 for Networking and Network Automation
+- **Python 3 for Networking and Network Automation**
 
 ### Cloud Computing
-- AWS SAA, Cloud Computing & IAC (FWD)
+- **AWS SAA, Cloud Computing & IAC** (FWD)
 
 ### DevOps
-- Introduction to DevOps (IBM)
+- **Introduction to DevOps** (IBM)
 
 ### SDN
-- Introduction to SDN
+- **Introduction to SDN**
 
 ### Linux
-- RHEL Admin I (NTI Certified)
+- **RHEL Admin I** (NTI Certified)
 
 ### Virtualization
-- VirtualBox & VMware Workstation
+- **VirtualBox & VMware Workstation**
 
 ### Mobile Communication Technology
-- GSM
-- UMTS
-- LTE
-- WCDMA
+- **GSM**
+- **UMTS**
+- **LTE**
+- **WCDMA**
 
 ## Education
 - **National Telecommunication Institute (NTI)** - Telecommunication Post Graduate Diploma, Telecommunications Engineering (Sep 2023 - Jul 2024) - **Grade**: Excellent
@@ -65,16 +69,16 @@ Proven expertise in improving network monitoring, implementing robust backup str
 - **Digital Egypt Pioneers Initiative (DEPI)** - DevOps track
 
 ## Licenses & Certifications
-- Professional Foundations - ALX Arabia (Issued Oct 2024)
-- DevOps Fundamentals Workshop - ITIDA-SECC Software Engineering Competence Center (Issued Jul 2024)
-- Introduction to DevOps - IBM (Issued Jun 2024) - Credential ID 5NKZQZH5LSB5
-- Operating Systems Administration (OSA) - NTI (Issued Jan 2022)
-- Red Hat System Administration I (RH124) - Redhat (Issued Jan 2022)
-- Cisco Certified Network Security - Cisco Networking Academy (Issued Dec 2021)
-- Cisco CyberOps Associate - Cisco Networking Academy (Issued Dec 2021)
-- Network and Information Security (NIS) - NTI (Issued Dec 2021)
-- CCNA v7 - NTI (Issued Nov 2021)
-- CCNAv7: Enterprise Networking, Security, and Automation - Cisco Networking Academy (Issued Nov 2021)
+- **Professional Foundations** - ALX Arabia (Issued Oct 2024)
+- **DevOps Fundamentals Workshop** - ITIDA-SECC Software Engineering Competence Center (Issued Jul 2024)
+- **Introduction to DevOps** - IBM (Issued Jun 2024) - Credential ID 5NKZQZH5LSB5
+- **Operating Systems Administration (OSA)** - NTI (Issued Jan 2022)
+- **Red Hat System Administration I (RH124)** - Redhat (Issued Jan 2022)
+- **Cisco Certified Network Security** - Cisco Networking Academy (Issued Dec 2021)
+- **Cisco CyberOps Associate** - Cisco Networking Academy (Issued Dec 2021)
+- **Network and Information Security (NIS)** - NTI (Issued Dec 2021)
+- **CCNA v7** - NTI (Issued Nov 2021)
+- **CCNAv7: Enterprise Networking, Security, and Automation** - Cisco Networking Academy (Issued Nov 2021)
 
 ## Soft Skills
 - Very Good user of MS Office Package
@@ -93,6 +97,7 @@ Proven expertise in improving network monitoring, implementing robust backup str
 - Cybersecurity measures and network security solutions
 
 ## Projects
+
 ### GUI Python Program
 Created a text file containing the initial configuration script to make router configuration faster.
 
@@ -100,7 +105,7 @@ Created a text file containing the initial configuration script to make router c
 Connected enterprises through service provider with MPLS, VRF, and BGP. Objective: Secure inter-branch communication.
 
 ### Dockerized Resource Monitor App
-Real-time system resource insights with features like detailed logging and customization.
+Real-time system resource insights with features like detailed logging and customization.  
 **Code**: [Check out the code](https://github.com/yassertolba/DEPI-R2-Marathon-1-devops-project)
 
 ## Achievements
@@ -110,11 +115,12 @@ Awards, recognitions, or publications (to be added)
 Include feedback from satisfied clients for social proof (to be added)
 
 ## Contact
-### Call to Action and Contact Information
+
+**Call to Action and Contact Information**
+
 Contact me:
 - **Résumé**: [Yasser Ahmed NW Auto engineer](https://drive.google.com/drive/folders/1QZLb1wvcIOEULS8MaPPAkqTzKQJ4tEHn?usp=drive_link)
 - **LinkedIn**: [/in/yasser-tolba](https://linkedin.com/in/yasser-tolba)
 - **GitHub**: [yassertolba](https://github.com/yassertolba)
 - **Phone**: +201271653370 (Mobile)
 - **Email**: [yasser.a.tolba@gmail.com](mailto:yasser.a.tolba@gmail.com)
-
