@@ -1,5 +1,4 @@
-# Yasser Ahmed – Network DevOps Engineer
-Automating Complex Network Infrastructures
+# Automating Complex Network Infrastructures
 
 ## Navigation
 - [About Me](#about-me)
