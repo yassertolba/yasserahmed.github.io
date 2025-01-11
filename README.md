@@ -92,7 +92,7 @@ Proven expertise in improving network monitoring, implementing robust backup str
 ### GUI Python Program
 Created a text file containing the initial configuration script to make router configuration faster.
 
-**Code**: [Check out the code](https://github.com/yassertolba/Python-Projects/tree/main/Python_Network_Automation/Initial_Configration_GUI)
+<a href="https://github.com/yassertolba/Python-Projects/tree/main/Python_Network_Automation/Initial_Configration_GUI" target="_blank">**Code**</a>
 
 ![gui](gui.jpg)
 
@@ -106,7 +106,7 @@ Connected enterprises through service providers with MPLS, VRF, and BGP. Objecti
 ### Dockerized Resource Monitor App
 Real-time system resource insights with features like detailed logging and customization.
 
-**Code**: [Check out the code](https://github.com/yassertolba/DEPI-R2-Marathon-1-devops-project)
+<a href="https://github.com/yassertolba/DEPI-R2-Marathon-1-devops-project target="_blank">**Code**</a>
 
 ![container](1-container.jpg)
 ![container](2-dockerhub.jpg)
@@ -120,7 +120,7 @@ Include feedback from satisfied clients for social proof (to be added)
 
 ## Call to Action and Contact Information
 Contact me:
-- **Résumé**: [Yasser Ahmed Network DevOps engineer](https://drive.google.com/drive/folders/1QZLb1wvcIOEULS8MaPPAkqTzKQJ4tEHn?usp=drive_link)
+- **Résumé**: [Yasser Ahmed - Network DevOps engineer](https://drive.google.com/drive/folders/1QZLb1wvcIOEULS8MaPPAkqTzKQJ4tEHn?usp=drive_link)
 - **LinkedIn**: [/in/yasser-tolba](https://linkedin.com/in/yasser-tolba)
 - **GitHub**: [yassertolba](https://github.com/yassertolba)
 - **Phone**: +201271653370 (Mobile)
