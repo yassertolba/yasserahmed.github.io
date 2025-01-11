@@ -9,7 +9,7 @@
 - [Projects](#projects)
 - [Achievements](#achievements)
 - [Testimonials](#testimonials)
-- [Contact me](#contact)
+- [Contact me](#contact-me)
 
 ## About Me
 Greetings,
