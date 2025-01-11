@@ -92,8 +92,16 @@ Proven expertise in improving network monitoring, implementing robust backup str
 ### GUI Python Program
 Created a text file containing the initial configuration script to make router configuration faster.
 
+**Code**: [Check out the code](https://github.com/yassertolba/Python-Projects/tree/main/Python_Network_Automation/Initial_Configration_GUI)
+
+![gui](gui.jpg)
+
 ### L3-VPN Configuration
-Connected enterprises through service provider with MPLS, VRF, and BGP. Objective: Secure inter-branch communication.
+Connected enterprises through service providers with MPLS, VRF, and BGP. Objective: Secure inter-branch communication.
+![topology](topology.jpg)
+![r3](r3.jpg)
+![r4](r4.jpg)
+![r6](r6.jpg)
 
 ### Dockerized Resource Monitor App
 Real-time system resource insights with features like detailed logging and customization.
