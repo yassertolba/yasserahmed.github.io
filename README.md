@@ -13,7 +13,7 @@ Automating Complex Network Infrastructures
 - [Testimonials](#testimonials)
 - [Contact](#contact)
 
-![NetDevOps Logo](logo-14.bmp)
+;![NetDevOps Logo](logo-14.bmp)
 
 ## About Me
 ![Yasser Ahmed](personal_photo.jpg)
