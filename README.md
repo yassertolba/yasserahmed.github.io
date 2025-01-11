@@ -100,6 +100,10 @@ Real-time system resource insights with features like detailed logging and custo
 
 **Code**: [Check out the code](https://github.com/yassertolba/DEPI-R2-Marathon-1-devops-project)
 
+![container](1-container.jpg)
+![container](2-dockerhub.jpg)
+![container](3-test_at_remote_server.jpg)
+
 ## Achievements
 Awards, recognitions, or publications (to be added)
 
