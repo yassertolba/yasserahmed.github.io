@@ -17,6 +17,7 @@ Automating Complex Network Infrastructures
 
 ## About Me
 ![Yasser Ahmed](personal_photo.jpg)
+<img src="personal_photo.jpg" alt="Yasser Ahmed" title="Yasser Ahmed" width="150" height="100" /> 
 
 
 Greetings,
@@ -116,7 +117,7 @@ Include feedback from satisfied clients for social proof (to be added)
 
 ## Call to Action and Contact Information
 Contact me:
-- **Résumé**: [Yasser Ahmed NW Auto engineer](https://drive.google.com/drive/folders/1QZLb1wvcIOEULS8MaPPAkqTzKQJ4tEHn?usp=drive_link)
+- **Résumé**: [Yasser Ahmed Network DevOps engineer](https://drive.google.com/drive/folders/1QZLb1wvcIOEULS8MaPPAkqTzKQJ4tEHn?usp=drive_link)
 - **LinkedIn**: [/in/yasser-tolba](https://linkedin.com/in/yasser-tolba)
 - **GitHub**: [yassertolba](https://github.com/yassertolba)
 - **Phone**: +201271653370 (Mobile)
