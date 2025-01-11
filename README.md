@@ -14,9 +14,11 @@ Automating Complex Network Infrastructures
 - [Contact](#contact)
 
 ## About Me
-![Yasser Ahmed](personal_photo.jpg)
+![ ](personal_photo.jpg)
 ![Kitten](personal_photo.jpg){ width=50% } 
 <img src="personal_photo.jpg" alt="Yasser Ahmed" title="Yasser Ahmed" width="150" height="100" /> 
+
+![Yasser Ahmed](personal_photo.jpg# thumbnail bordered) 
 
 Greetings,
 
