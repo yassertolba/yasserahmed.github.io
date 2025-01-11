@@ -5,12 +5,11 @@
 - [Technical Skills](#technical-skills)
 - [Education](#education)
 - [Licenses & Certifications](#licenses-certifications)
-- [Soft Skills](#soft-skills)
 - [Offered Services](#offered-services)
 - [Projects](#projects)
 - [Achievements](#achievements)
 - [Testimonials](#testimonials)
-- [Contact](#contact)
+- [Contact me](#contact)
 
 ## About Me
 Greetings,
@@ -71,15 +70,6 @@ Proven expertise in improving network monitoring, implementing robust backup str
 - Network and Information Security (NIS) - NTI (Issued Dec 2021)
 - CCNA v7 - NTI (Issued Nov 2021)
 - CCNAv7: Enterprise Networking, Security, and Automation - Cisco Networking Academy (Issued Nov 2021)
-
-## Soft Skills
-- Very Good user of MS Office Package
-- Effective Communication
-- Effective Team Member
-- Time Management
-- Flexibility
-- Organization
-- Project Management
 
 ## Offered Services
 - Automating network configurations
