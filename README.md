@@ -30,18 +30,16 @@ Proven expertise in improving network monitoring, implementing robust backup str
 - BGP & MPLS
 - Network Security, CyberOps, firewalls & VPN (NTI Certified)
 
-### Network DevOps 
-- Ansible
-- Docker
-
 ### Python
 - Python 3 for Networking and Network Automation
 
 ### Cloud Computing
 - AWS SAA, Cloud Computing & IAC (FWD)
 
-### DevOps
+### Network DevOps
 - Introduction to DevOps (IBM)
+- Ansible
+- Docker
 
 ### SDN
 - Introduction to SDN
