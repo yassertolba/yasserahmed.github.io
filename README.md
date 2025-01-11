@@ -16,7 +16,7 @@ Automating Complex Network Infrastructures
 ![NetDevOps Logo](logo-14.bmp)
 
 ## About Me
-![Yasser Ahmed](personal_photo.jpg){style="width:150px;height:auto;border-radius:50%;"}
+![Yasser Ahmed](personal_photo.jpg)
 
 
 Greetings,
