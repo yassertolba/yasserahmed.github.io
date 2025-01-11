@@ -4,7 +4,7 @@
 - [About Me](#about-me)
 - [Technical Skills](#technical-skills)
 - [Education](#education)
-- [Licenses & Certifications](#licenses-certifications)
+- [Licenses & Certifications](#licenses-&-certifications)
 - [Offered Services](#offered-services)
 - [Projects](#projects)
 - [Achievements](#achievements)
