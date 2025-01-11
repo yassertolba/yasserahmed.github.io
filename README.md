@@ -14,10 +14,6 @@ Automating Complex Network Infrastructures
 - [Contact](#contact)
 
 ## About Me
-<img src="personal_photo.jpg" alt="Yasser Ahmed" title="Yasser Ahmed" width="150" height="150" /> 
-
-
-
 Greetings,
 
 My name's Yasser Ahmed, a highly skilled Network DevOps Engineer with CCNA and CCNP certifications. I specialize in automating and securing complex network infrastructures with a focus on:
