@@ -118,8 +118,7 @@ Awards, recognitions, or publications (to be added)
 ## Testimonials
 Include feedback from satisfied clients for social proof (to be added)
 
-## Call to Action and Contact Information
-Contact me:
+## Contact me:
 - **Résumé**: <a href="https://drive.google.com/drive/folders/1QZLb1wvcIOEULS8MaPPAkqTzKQJ4tEHn?usp=drive_link" target="_blank">**Yasser Ahmed - Network DevOps engineer**</a>
 - **LinkedIn**: <a href="https://linkedin.com/in/yasser-tolba" target="_blank">**/in/yasser-tolba**</a>
 - **GitHub**: <a href="https://github.com/yassertolba" target="_blank">**yassertolba**</a>
