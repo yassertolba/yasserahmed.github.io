@@ -32,8 +32,6 @@ Proven expertise in improving network monitoring, implementing robust backup str
 - BGP & MPLS
 - Network Security, CyberOps, firewalls & VPN (NTI Certified)
 
----
-
 ### Python
 - Python 3 for Networking and Network Automation
 
