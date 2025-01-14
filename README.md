@@ -11,6 +11,8 @@
 - [Testimonials](#testimonials)
 - [Contact me](#contact-me)
 
+---
+
 ## About Me
 Greetings,
 
@@ -21,12 +23,16 @@ My name's Yasser Ahmed, a highly skilled Network DevOps Engineer with CCNA and C
 
 Proven expertise in improving network monitoring, implementing robust backup strategies for network devices, and maximizing network efficiency and uptime. My experience has enhanced my skills in effective communication, problem-solving, and time management.
 
+---
+
 ## Technical Skills
 ### Networking
 - CCNA R&S 200-301 (NTI Certified)
 - CCNP ENCORE
 - BGP & MPLS
 - Network Security, CyberOps, firewalls & VPN (NTI Certified)
+
+---
 
 ### Python
 - Python 3 for Networking and Network Automation
@@ -54,10 +60,14 @@ Proven expertise in improving network monitoring, implementing robust backup str
 - LTE
 - WCDMA
 
+---
+
 ## Education
 - **National Telecommunication Institute (NTI)** - Telecommunication Post Graduate Diploma, Telecommunications Engineering (Sep 2023 - Jul 2024) - **Grade**: Excellent
 - **Alexandria Higher Institute of Engineering & Technology (AIET)** - Bachelor of Engineering - BE, Electronic and Communication Engineering (Jan 2016 - Jun 2021) - **Grade**: Very good (GPA 3.2)
 - **Digital Egypt Pioneers Initiative (DEPI)** - DevOps track
+
+---
 
 ## Licenses & Certifications
 - Professional Foundations - ALX Arabia (Issued Oct 2024)
@@ -71,12 +81,15 @@ Proven expertise in improving network monitoring, implementing robust backup str
 - CCNA v7 - NTI (Issued Nov 2021)
 - CCNAv7: Enterprise Networking, Security, and Automation - Cisco Networking Academy (Issued Nov 2021)
 
+---
+
 ## Offered Services
 - Automating network configurations
 - Network monitoring and alert systems
 - Custom Python GUIs for network operations
-- DevOps services (e.g., Docker, Ansible)
-- Cybersecurity measures and network security solutions
+- Network DevOps (DevNetOps) services (e.g., Docker, Ansible)
+
+---
 
 ## Projects
 ### GUI Python Program
@@ -102,11 +115,32 @@ Real-time system resource insights with features like detailed logging and custo
 ![container](2-dockerhub.jpg)
 ![container](3-test_at_remote_server.jpg)
 
+---
+
 ## Achievements
-Awards, recognitions, or publications (to be added)
+**Conducted Network Automation Engineering Workshop at Midocean University**
+
+I led a workshop on Network Automation Engineering at Midocean University, equipping attendees with skills to automate network tasks, increase efficiency, and reduce human error.
+
+**Key Highlights:**
+- Covered Python basics: Data types, data conversion, loops, functions, and file handling.
+- Established test environment using VMware Workstation and GNS3 for real-world network device configurations.
+- Developed practical Python applications for:
+  - Configuring and monitoring NTP on network devices.
+  - Automating device backups to an FTP server.
+
+**Sessions Recordings:**
+- <a href="https://youtu.be/3B1JMtkvbJY?si=RePwPrvEd9YNhZN6" target="_blank">Session 1</a>
+- <a href="https://youtu.be/UZRTsqW-RLc?si=YbBSNl4YG3JPJLy8" target="_blank">Session 2</a>
+
+LinkedIn post:  <a href="https://www.linkedin.com/posts/yasser-tolba_network-automation-engineering-activity-7279614083539062784-qcaS?utm_source=share&utm_medium=mem" target="_blank">Network Automation Engineering Workshop</a>
+
+---
 
 ## Testimonials
 Include feedback from satisfied clients for social proof (to be added)
+
+---
 
 ## Contact me:
 - **Résumé**: <a href="https://drive.google.com/drive/folders/1QZLb1wvcIOEULS8MaPPAkqTzKQJ4tEHn?usp=drive_link" target="_blank">**Yasser Ahmed - Network DevOps engineer**</a>
