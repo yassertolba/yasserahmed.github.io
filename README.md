@@ -18,7 +18,7 @@ Greetings,
 
 My name's Yasser Ahmed, a highly skilled Network DevOps Engineer with CCNA and CCNP certifications. I specialize in automating and securing complex network infrastructures with a focus on:
 - Python scripting
-- DevOps tools (Ansible, Docker)
+- DevOps tools (Ansible, Docker, Jenkins, Kubernetes)
 - Developing custom Python GUIs for streamlined network operations
 
 Proven expertise in improving network monitoring, implementing robust backup strategies for network devices, and maximizing network efficiency and uptime. My experience has enhanced my skills in effective communication, problem-solving, and time management.
@@ -42,6 +42,8 @@ Proven expertise in improving network monitoring, implementing robust backup str
 - Introduction to DevOps (IBM)
 - Ansible
 - Docker
+- Jenkins
+- Kubernetes 
 
 ### SDN
 - Introduction to SDN
