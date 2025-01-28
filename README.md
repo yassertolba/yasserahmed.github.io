@@ -9,7 +9,7 @@
 - [Projects](#projects)
 - [Achievements](#achievements)
 - [Testimonials](#testimonials)
-- [Contact me](#contact-me)
+- [Résumé & Contacting Info](#résumé--contacting-info)
 
 ---
 
@@ -142,9 +142,9 @@ Include feedback from satisfied clients for social proof (to be added)
 
 ---
 
-## Contact me:
+## Résumé & Contacting Info
 - **Résumé**: <a href="https://drive.google.com/drive/folders/1QZLb1wvcIOEULS8MaPPAkqTzKQJ4tEHn?usp=drive_link" target="_blank">**Yasser Ahmed - Network DevOps engineer**</a>
-- **LinkedIn**: <a href="https://linkedin.com/in/yasser-tolba" target="_blank">**/in/yasser-tolba**</a>
-- **GitHub**: <a href="https://github.com/yassertolba" target="_blank">**yassertolba**</a>
 - **Phone**: +201271653370 (Mobile)
 - **Email**: <a href="mailto:yasser.a.tolba@gmail.com" target="_blank">yasser.a.tolba@gmail.com</a>
+- **LinkedIn**: <a href="https://linkedin.com/in/yasser-tolba" target="_blank">**/in/yasser-tolba**</a>
+- **GitHub**: <a href="https://github.com/yassertolba" target="_blank">**yassertolba**</a>
